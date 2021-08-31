@@ -1,0 +1,27 @@
+img { width: 222px;}
+
+body {background-image: url(https://i.pinimg.com/originals/3f/48/34/3f483410b8f2f1eb486efa7142deefc3.jpg); height: 100%; background-position: center; background-repeat: no-repeat; background-size: cover;}
+
+.burger {background-color: lime;}
+.pizza {background-color: magenta;}
+.sandw {background-color: maroon;}
+
+body {align-self: center; text-align: center; font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; }
+
+div { text-align: center;}
+
+nav {background-color: crimson;
+}
+ul {text-align: center;}
+
+div {text-align: center;}
+
+.burger {text-align: center;}
+
+.menu {color: crimson;}
+
+.ophours {color: rgb(220, 217, 20);}
+#ophourstitle {color: darkgoldenrod; ;}
+
+table {background-color: darkred; border-style: solid}
+
